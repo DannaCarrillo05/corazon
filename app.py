@@ -3,7 +3,6 @@ import pandas as pd
 import joblib
 import numpy as np
 from sklearn.preprocessing import MinMaxScaler
-import matplotlib.pyplot as plt
 import requests
 from io import BytesIO
 from PIL import Image
